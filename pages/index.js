@@ -1,4 +1,10 @@
-import { Container, Box, Heading } from "@chakra-ui/react"
+import NextLink from 'next/link'
+import { 
+    Container,
+    Box,
+    Heading } from "@chakra-ui/react"
+
+import Section from "../components/section"
 
 const Page = () => {
     return( 
